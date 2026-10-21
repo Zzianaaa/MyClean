@@ -195,8 +195,8 @@ function aiReply(userMessage) {
   setTimeout(() => {
     if (isRecognized) {
       const reply = isChinese
-        ? "您好，我是 My Clean 智能助理，很高兴为您服务！"
-        : "Hello! I'm the AI assistant from My Clean. How can I assist you today?";
+        ? "您好，我是 MyClean 智能助理，很高兴为您服务！"
+        : "Hello! I'm the AI assistant from MyClean. How can I assist you today?";
       addMessage(reply, false);
     } else {
       const fallback = isChinese

@@ -1,4 +1,4 @@
-# cp3407-project-v2024 template - My Clean Website
+# MyClean - Cleaning Service Booking Platform
 
 Class number: Class B 
 
